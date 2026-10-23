@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "ru-dmitry",
+  "edgeVoice": "ru-RU-DmitryNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 142,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 6,
+      "text": "Не нужно притворяться, что это было легко.",
+      "file": "c006.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 7,
+      "text": "Пусть правда об усталости будет признана.",
+      "file": "c007.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 8,
+      "text": "[пауза:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 9,
+      "text": "Дышите осторожно.",
+      "file": "c009.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 10,
+      "text": "Выдохните требование, чтобы все было в порядке.",
+      "file": "c010.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 11,
+      "text": "[пауза:31]",
+      "file": "c011.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 12,
+      "text": "Позвольте мне быть нежным с самим собой сегодня вечером.",
+      "file": "c012.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 13,
+      "text": "Пусть я отдохну, как есть.",
+      "file": "c013.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 14,
+      "text": "[пауза:31]",
+      "file": "c014.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 15,
+      "text": "Пусть завтра попросит только то, что я могу дать.",
+      "file": "c015.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 16,
+      "text": "[пауза:31]",
+      "file": "c016.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 17,
+      "text": "Почувствуйте поддержку тела.",
+      "file": "c017.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 18,
+      "text": "Больше ничего не требуется в эту минуту.",
+      "file": "c018.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 19,
+      "text": "[пауза: 45]",
+      "file": "c019.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 20,
+      "text": "Положите руку на сердце, если это поможет.",
+      "file": "c020.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 21,
+      "text": "Вы справились.",
+      "file": "c021.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 22,
+      "text": "[пауза:38]",
+      "file": "c022.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 23,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c023.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 24,
+      "text": "Пошевелите пальцами.",
+      "file": "c024.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 25,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c025.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 26,
+      "text": "Носите немного этого с собой.",
+      "file": "c026.ogg",
+      "durationSec": 5.184
+    }
+  ]
+}

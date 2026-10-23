@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "ru-dmitry",
+  "edgeVoice": "ru-RU-DmitryNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 128,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 1,
+      "text": "Если присутствует гнев или раздражение, вам сюда.",
+      "file": "c001.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 2,
+      "text": "Вам не нужно заставлять его исчезнуть.",
+      "file": "c002.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 3,
+      "text": "Просто дайте ему больше места.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте ноги.",
+      "file": "c004.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 5,
+      "text": "[пауза: 25]",
+      "file": "c005.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 6,
+      "text": "Вдохните на четыре.",
+      "file": "c006.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 7,
+      "text": "Выдохните на шесть или восемь.",
+      "file": "c007.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 8,
+      "text": "Более длинные выдохи охлаждают систему.",
+      "file": "c008.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 9,
+      "text": "[пауза:33]",
+      "file": "c009.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 10,
+      "text": "Снова.",
+      "file": "c010.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 11,
+      "text": "[пауза:33]",
+      "file": "c011.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 12,
+      "text": "Назовите жару, не рассказывая историю.",
+      "file": "c012.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 13,
+      "text": "Жар в груди. Крепкая челюсть. Быстрый ум.",
+      "file": "c013.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 14,
+      "text": "[пауза: 41]",
+      "file": "c014.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 15,
+      "text": "Смягчите руки.",
+      "file": "c015.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 16,
+      "text": "Опустите плечи.",
+      "file": "c016.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 17,
+      "text": "[пауза:33]",
+      "file": "c017.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 18,
+      "text": "Вы можете ответить позже из более ясного места.",
+      "file": "c018.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 19,
+      "text": "А пока дышите.",
+      "file": "c019.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 20,
+      "text": "[пауза: 45]",
+      "file": "c020.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 21,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c021.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 22,
+      "text": "Пошевелите пальцами.",
+      "file": "c022.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 23,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c023.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 24,
+      "text": "Носите немного этого с собой.",
+      "file": "c024.ogg",
+      "durationSec": 5.184
+    }
+  ]
+}

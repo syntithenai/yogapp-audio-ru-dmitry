@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "ru-dmitry",
+  "edgeVoice": "ru-RU-DmitryNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 214,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 7,
+      "text": "[пауза:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "[пауза:32]",
+      "file": "c012.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 13,
+      "text": "Положите руку на сердце, если это поможет.",
+      "file": "c013.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 14,
+      "text": "Замечайте свое состояние без осуждения.",
+      "file": "c014.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 15,
+      "text": "[пауза:32]",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "Это момент страдания или обычного человеческого напряжения.",
+      "file": "c016.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 17,
+      "text": "Другие тоже это чувствуют.",
+      "file": "c017.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 18,
+      "text": "[пауза:39]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "Могу ли я быть добрым к себе в этот момент.",
+      "file": "c019.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 20,
+      "text": "[пауза:32]",
+      "file": "c020.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 21,
+      "text": "Могу ли я принять себя таким, какой я есть.",
+      "file": "c021.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 22,
+      "text": "[пауза:32]",
+      "file": "c022.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 23,
+      "text": "Могу ли я дать себе сострадание, в котором я нуждаюсь.",
+      "file": "c023.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 24,
+      "text": "[пауза:39]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "Повторите фразы, которые приземлились. Оставьте тех, у кого нет.",
+      "file": "c025.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 26,
+      "text": "[пауза:52]",
+      "file": "c026.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 27,
+      "text": "Представьте, что вы разговариваете с самим собой так, как это сделал бы мудрый друг.",
+      "file": "c027.ogg",
+      "durationSec": 10.176
+    },
+    {
+      "index": 28,
+      "text": "Какой тон они бы использовали?",
+      "file": "c028.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 29,
+      "text": "Предложите себе этот тон прямо сейчас.",
+      "file": "c029.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 30,
+      "text": "[пауза:65]",
+      "file": "c030.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 31,
+      "text": "Вдохните доброту.",
+      "file": "c031.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 32,
+      "text": "Выдохните резкость.",
+      "file": "c032.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 33,
+      "text": "[пауза:78]",
+      "file": "c033.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 34,
+      "text": "[пауза:39]",
+      "file": "c034.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 35,
+      "text": "Начните углублять дыхание.",
+      "file": "c035.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 36,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c036.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 37,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c037.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 38,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c038.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 39,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c039.ogg",
+      "durationSec": 6.552
+    }
+  ]
+}

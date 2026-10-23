@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ru-dmitry.zip", "bytes": 69370065, "sha256": "62dd5d8252f64f9a45ab2c6a9d3aaa99296ddd9bb85bec66647e394870074180"}
+  ]
+}
